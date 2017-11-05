@@ -1,0 +1,2 @@
+#introduction{text-align:center}button{font-weight:700;font-size:large;padding:5px}button,table{margin:0 auto;display:block}table{margin-bottom:30px;max-width:90vw}#categories{display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around;background:gray;font-weight:700;border:1px solid #000}#categories>*,#stats>*{-ms-flex:1 1;flex:1 1}#stats{display:-ms-flexbox;display:flex;-ms-flex-pack:distribute;justify-content:space-around}td{border:1px solid #000;padding:10px}
+/*# sourceMappingURL=main.f1d8ba60.css.map*/
