@@ -1,0 +1,42 @@
+/* #Introduction */
+#introduction {
+  text-align: center;
+}
+
+button {
+  font-weight: bold;
+  font-size: large;
+  padding: 5px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* #Vehicles */
+table {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  max-width: 90vw;
+}
+
+#categories {
+  display: flex;
+  justify-content: space-around;
+  background: gray;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+#categories > *, #stats > *  {
+  flex: 1;
+}
+
+#stats {
+  display: flex;
+  justify-content: space-around;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}
